@@ -13,11 +13,11 @@ cask "backend-starter" do
   on_macos do
     on_intel do
       url "https://github.com/Walon-Foundation/backend-starter-cli/releases/download/v0.1.4/backend-starter_0.1.4_macOS_amd64.tar.gz"
-      sha256 "2cde07b05abd1ffb88af3ebe169e7c56f75b63f8882ba19fbbce3013821df4d7"
+      sha256 "0a295ecfe04c9f816fee975a02e9df6e76ef01512d9ef25c0ae7ef2058f92bc8"
     end
     on_arm do
       url "https://github.com/Walon-Foundation/backend-starter-cli/releases/download/v0.1.4/backend-starter_0.1.4_macOS_arm64.tar.gz"
-      sha256 "a4d98ae0c96dc642ab6a9edf91898fe366aade852e17d0f90f95d624b4d409b4"
+      sha256 "2f844f7acaf688781a841a4657d7e8986e6515846eb892e1e3fc08b8b6aeb4cd"
     end
   end
 
