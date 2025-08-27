@@ -2,7 +2,7 @@
 cask "backend-starter" do
   desc ""
   homepage "https://github.com/Walon-Foundation/backend-starter-cli"
-  version "0.1.3"
+  version "0.1.4"
 
   livecheck do
     skip "Auto-generated on release."
@@ -12,12 +12,12 @@ cask "backend-starter" do
 
   on_macos do
     on_intel do
-      url "https://github.com/Walon-Foundation/backend-starter-cli/releases/download/v0.1.3/backend-starter_0.1.3_macOS_amd64.tar.gz"
-      sha256 "a1302e83c66bc1506b44cdb5991aa3dc3770c641a5c50428e3123821cc8ff550"
+      url "https://github.com/Walon-Foundation/backend-starter-cli/releases/download/v0.1.4/backend-starter_0.1.4_macOS_amd64.tar.gz"
+      sha256 "2cde07b05abd1ffb88af3ebe169e7c56f75b63f8882ba19fbbce3013821df4d7"
     end
     on_arm do
-      url "https://github.com/Walon-Foundation/backend-starter-cli/releases/download/v0.1.3/backend-starter_0.1.3_macOS_arm64.tar.gz"
-      sha256 "88c96e11575c91f8af120c398cd9c0d96b453c71a86f3255ead9edeb06736626"
+      url "https://github.com/Walon-Foundation/backend-starter-cli/releases/download/v0.1.4/backend-starter_0.1.4_macOS_arm64.tar.gz"
+      sha256 "a4d98ae0c96dc642ab6a9edf91898fe366aade852e17d0f90f95d624b4d409b4"
     end
   end
 
